@@ -1,0 +1,27 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Folder about asynchronism in JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "rickandmorty" : "node src/callbacks/rickandmorty.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missael306/Asynchronism.git"
+  },
+  "keywords": [
+    "Callbacks",
+    "Promise",
+    "Async"
+  ],
+  "author": "Missael Armenta Peralta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missael306/Asynchronism/issues"
+  },
+  "homepage": "https://github.com/missael306/Asynchronism#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
