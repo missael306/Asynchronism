@@ -4,7 +4,8 @@
   "description": "Folder about asynchronism in JavaScript",
   "main": "src/index.js",
   "scripts": {
-    "rickandmorty" : "node src/callbacks/rickandmorty.js"
+    "callback" : "node src/callbacks/callback.js",
+    "promise" : "node src/promises/promise.js"
   },
   "repository": {
     "type": "git",
