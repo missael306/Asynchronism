@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "callback" : "node src/callbacks/callback.js",
-    "promise" : "node src/promises/promise.js"
+    "promise" : "node src/promises/promise.js",
+    "async" : "node src/asyncawait/async.js"
   },
   "repository": {
     "type": "git",

@@ -18,11 +18,6 @@ const fetchData = (url) => {
   });
 };
 
-const printTitle = (title) => {
-  return `*************************
-  ${title}
-  *************************`;
-};
 
-module.exports = printTitle;
+
 module.exports = fetchData;
